@@ -1,3 +1,11 @@
+/**
+ * This is a project for Leetcode problems
+ * 
+ * Author: venuscupid
+ * History:
+ *   2013.09. created
+ */
+
 import java.util.ArrayList;
 
 
