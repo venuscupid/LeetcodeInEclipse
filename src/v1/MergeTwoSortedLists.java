@@ -1,4 +1,5 @@
-import common.ListNode;
+package v1;
+import v1.common.ListNode;
 
 /**
  * Definition for singly-linked list.
