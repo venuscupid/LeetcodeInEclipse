@@ -1,8 +1,9 @@
-public class Solution {
+public class ValidNumber {
     public boolean isNumber(String s) {
         // Start typing your Java solution below
         // DO NOT write main() function
         
+    	return true;
     }
     
     /**
@@ -30,21 +31,26 @@ public class Solution {
         
         // trim ending spaces
         
+        return null;
     }
     
     private boolean isBinary(String s){
         
+    	return true;
     }
     
     private boolean isOctal(String s){
         
+    	return true;
     }
     
     private boolean isHex(String s){
         
+    	return true;
     }
     
     private boolean isDecimal(String s){
         
+    	return true;
     }
 }
