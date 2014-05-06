@@ -13,7 +13,7 @@ import v2.common.*;
  *     }
  * }
  */
-public class Four_AddTwoNumbers {
+public class P4_AddTwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         if(l1 == null) return l2;
         if(l2 == null) return l1;

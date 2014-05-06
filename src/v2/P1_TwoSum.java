@@ -2,7 +2,7 @@ package v2;
 
 import java.util.HashMap;
 
-public class One_TwoSum {
+public class P1_TwoSum {
     public int[] twoSum(int[] numbers, int target) {
         
         if(numbers == null || numbers.length <= 1) return null; // if only 1 number, return null
